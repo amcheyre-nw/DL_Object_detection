@@ -1,4 +1,4 @@
-# DL_Object_detection
+# DL Object detection
 
 To be able to run the models Faster RCNN and YOLO, you need to add the following folder to your own "My Drive" in Google Drive to be able to download the database used by the models:
 
