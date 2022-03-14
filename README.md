@@ -1,4 +1,4 @@
-# DL Object detection
+# Object detection
 
 The goal of this project is to develop a computer vision model that solves some of the multiple tasks that the system of self-driving cars must execute to be able to drive autonomously. For this task, we are going to implement one of the best-known models in object detection which is YOLO. But we also want to see how this compares with another well recognized model called Faster R-CNN and thus see which of the two gives better results.
 
